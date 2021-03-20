@@ -30,6 +30,17 @@ HTML, CSSS, OS참고 사이트 : [W3SCHOOLS](https://www.w3schools.com/python/de
 
 이거 엄청재미<br/>있네??ㅋㅋ
 
+## WEB/IT 기초개념
 
+>>클라이언트-서버 모델
+
+<img src="https://github.com/zilnet/yongbam/blob/main/%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B7%B8%EB%A6%BC1.png?raw=true" width="648px"/>
+-클라이언트 서버 모델에서 클라이언트는 사용자가 사용하는 디바이스 (PC,Mibile)을 의미하고, 서버는 클라이언트가 접속해서 데이터나 파일을 요청했을때 응답하는 시스템이다 (이것또한 컴퓨터'서버
+ - 클라이언트와 서버는 네트워크를 통해서 연결됨
+
+
+<img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2614/4971.png" />
+-클라이언트와 버 모델은 실제 연결은 아니지만 개념적으로 클라이언트 관점에서 1:1로 연결되었다고 생각할 수 있음
+ - 클라이언트 서버 모델에서 이루어지는 동작들은 클라이언트의 요청 (request)과 서버의 응답)response)의 한 사이클로 구성됨
 
 

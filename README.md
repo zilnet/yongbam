@@ -20,3 +20,10 @@
 
 +협업관련 branch (사전적의미 가지치기 등)
 +pull request (땡겨달라고 요청)
+
+> 사이트 링크
+마크다운 사용법 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+HTML, CSSS, OS참고 사이트 : [W3SCHOOLS](https://www.w3schools.com/python/default.asp)
+
+온라인 에디터 : [CODE PEN](https://codepen.io/)

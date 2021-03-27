@@ -121,3 +121,11 @@ video 태그의 attribute
 3) muted
 
 [HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
+ -youtube의 매개변수
+1) Controls => youtube_url/VIDEO_ID?controls=1
+2) autoplay => youtube_url/VIDEO_ID?controls=1
+3) mute => youtube_url/VIDEO_ID?myte=1
+4) loop => youtube_url/VIDEO_ID?loop=1&playlist=VIDEO_ID
+
+ - 여러 매개변수 동시 사용
+youtube_url/VIDEO_ID?controls=1&autoplay=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (&: ampersand)

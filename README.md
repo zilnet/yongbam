@@ -99,3 +99,25 @@ href : 링크로 연결된 목적지 주소
 
 ul, ol목록 사용 시 중첩(nasted)형태로 사용.
 - 포함하는 목록 항목에 작은 목록 전체가 포함됨.
+
+### 이미지 콘텐츠 요소
+
+[HTML Images](https://www.w3schools.com/html/html_images.asp)
+
+1) src attribute : 가져올 이미지 파일 위치정보
+2) alt(alternative) attribute : 대체 텍스트
+
+### 멀티미디어 콘텐츠 요소
+
+[HTML Video](https://www.w3schools.com/html/html5_video.asp)
+
+attribute의 형태
+1) name = "value"
+2) name만 사용
+
+video 태그의 attribute
+1) controls
+2) autoplay
+3) muted
+
+[HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)

@@ -55,6 +55,10 @@ HTML, CSSS, OS참고 사이트 : [W3SCHOOLS](https://www.w3schools.com/python/de
 HTML 속성(attributes)
 1) HTML Element에 추가 정보를 제공
 2) name = "value" 형태로 사용
+3) 멀티미디어(비디오,오디오)
+
+### 텍스트 컨텐츠 요소[Elements]
+웹 문서에서 표시 할 수 있는 컨텐츠
 
 > [HTML Headings](https://www.w3schools.com/html/html_headings.asp)
 

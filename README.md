@@ -45,4 +45,53 @@ HTML, CSSS, OS참고 사이트 : [W3SCHOOLS](https://www.w3schools.com/python/de
  - 클라이언트는 클라이언트 디바이스에서 실행되는 웹브라우저, 서버는 서버 디바이스에서 실행되는 서버 소프트웨어가 실제로 사용되는 것임.
 
 ## HTML
-[HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+
+> [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)<br/>
+
+> [HTML Elements](https://www.w3schools.com/html/html_elements.asp)<br/>
+
+> [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)<br/>
+
+HTML 속성(attributes)
+1) HTML Element에 추가 정보를 제공
+2) name = "value" 형태로 사용
+
+> [HTML Headings](https://www.w3schools.com/html/html_headings.asp)
+
+제목 태그(tag)
+Heading -> h
+h1 ~ h6
+
+> [HTML paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)
+
+단락 태그
+Paragraph -> p
+
+수평선
+Horizontal Rules -> hr(Empty Element)
+시작태그만 있는 태그
+
+> [HTML Links](https://www.w3schools.com/html/html_links.asp)
+
+
+하이퍼링크
+anchor -> a
+href : 링크로 연결된 목적지 주소
+1) 외부링크
+ - 링크 주소 입력 시 http(https)키워드를 사용
+
+2) 북마크
+ - 목적지에 id attribute를 사용해서 이름을 정해줌
+ - href attribute에 #를 사용해서 목적지 이름을 입력
+ 
+[HTML Tables](https://www.w3schools.com/html/html_tables.asp)
+
+[Table Generator](https://www.tablesgenerator.com/)
+
+[HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+1) 순서없는 목록(ul)
+2) 순서있는 목록(ol)
+3) 설명 목록
+
+ul, ol목록 사용 시 중첩(nasted)형태로 사용.
+- 포함하는 목록 항목에 작은 목록 전체가 포함됨.

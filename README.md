@@ -129,3 +129,13 @@ video 태그의 attribute
 
  - 여러 매개변수 동시 사용
 youtube_url/VIDEO_ID?controls=1&autoplay=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (&: ampersand)
+
+###HTML5 Content Model
+: Sectioning Contents
+=> Semantic Element 
+
+[HTML Semantic Element](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+(caniuse.com) 브라우저별 호환성에 대해 표시가 됨. 태그를 입력시켜보삼
+
+<img src="https://www.w3schools.com/html/img_sem_elements.gif">

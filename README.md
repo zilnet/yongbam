@@ -88,11 +88,11 @@ href : 링크로 연결된 목적지 주소
  - 목적지에 id attribute를 사용해서 이름을 정해줌
  - href attribute에 #를 사용해서 목적지 이름을 입력
  
-[HTML Tables](https://www.w3schools.com/html/html_tables.asp)
+> [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
 
-[Table Generator](https://www.tablesgenerator.com/)
+> [Table Generator](https://www.tablesgenerator.com/)
 
-[HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+> [HTML Lists](https://www.w3schools.com/html/html_lists.asp)
 1) 순서없는 목록(ul)
 2) 순서있는 목록(ol)
 3) 설명 목록
@@ -102,14 +102,14 @@ ul, ol목록 사용 시 중첩(nasted)형태로 사용.
 
 ### 이미지 콘텐츠 요소
 
-[HTML Images](https://www.w3schools.com/html/html_images.asp)
+> [HTML Images](https://www.w3schools.com/html/html_images.asp)
 
 1) src attribute : 가져올 이미지 파일 위치정보
 2) alt(alternative) attribute : 대체 텍스트
 
 ### 멀티미디어 콘텐츠 요소
 
-[HTML Video](https://www.w3schools.com/html/html5_video.asp)
+> [HTML Video](https://www.w3schools.com/html/html5_video.asp)
 
 attribute의 형태
 1) name = "value"
@@ -120,7 +120,7 @@ video 태그의 attribute
 2) autoplay
 3) muted
 
-[HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
+> [HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
  -youtube의 매개변수
 1) Controls => youtube_url/VIDEO_ID?controls=1
 2) autoplay => youtube_url/VIDEO_ID?controls=1
@@ -134,8 +134,16 @@ youtube_url/VIDEO_ID?controls=1&autoplay=1&autoplay=1&mute=1&loop=1&playlist=VID
 : Sectioning Contents
 => Semantic Element 
 
-[HTML Semantic Element](https://www.w3schools.com/html/html5_semantic_elements.asp)
-
-(caniuse.com) 브라우저별 호환성에 대해 표시가 됨. 태그를 입력시켜보삼
+> [HTML Semantic Element](https://www.w3schools.com/html/html5_semantic_elements.asp)
+ <ol>
+<li>특정 의미를 부여하는 Container 요소
+ <li>레이아웃을 구성할 때 각각의 영역을 구분하기 위해 사용
+</ol></br>
+# 참고링크
+ - [Can I use](https://caniuse.com/) 브라우저별 호환성에 대해 표시가 됨. 태그를 입력시켜보삼
 
 <img src="https://www.w3schools.com/html/img_sem_elements.gif">
+
+[포토샵없을때 포토피아 뭐비슷한건데 웹에서하는거](https://www.photopea.com/)
+
+- [Website template](https://freebiesbug.com/psd-freebies/website-template/)
